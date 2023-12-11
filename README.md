@@ -28,9 +28,11 @@
 ## Known Bugs
 * Create new coffee button needs to be fixed 
 * list needs to go down when you sell an item 
-* Problems while pushing, messed up code
-* cant figure out why it wont display anymore 
+
 ## link to old repo
+Problems while pushing, messed up code
+cant figure out why it wont display anymore 
+figure out how to fix it later this week 
 (https://github.com/gabe9t/projectweek82)
 
 
