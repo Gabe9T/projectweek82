@@ -3,9 +3,6 @@
 
 #### By Gabriel Tucker
 
-## Component Diagram
- ![Diagram of components](src/diagram.drawio.svg)
-
 ## Technologies Used
 
 * Html
